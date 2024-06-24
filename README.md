@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ClintonGeek
-- 👀 I’m interested in CyberSec, Networking and Security, RDBMS, MySQL
-- 🌱 I’m currently learning Advanced CyberSec and Ethical Hacking 
+- 👋 Hi, I’m @ClintonNdgewa
+- 👀 I’m interested in Devops and CyberSec
+- 🌱 I’m currently learning Devops The Big Picture and Cloud Services
 
